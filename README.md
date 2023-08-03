@@ -9,7 +9,7 @@
   <p>Página clone de login da Netflix, desenvolvido em HTML e CSS</p>
 
   <div>
-    <a href="https://github.com/Doug-Silva/netflix-login/blob/main/LICENSE"><img src="https://img.shields.io/npm/l/react" 
+    <a href="https://github.com/Doug-Silva/netflix-login/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green" 
     alt="License MIT"></a>
   </div><br>
 
